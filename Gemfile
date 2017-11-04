@@ -57,3 +57,5 @@ gem 'kaminari'
 group :production do
   gem 'pg'
 end
+
+gem 'bcrypt', '~> 3.1.7'
